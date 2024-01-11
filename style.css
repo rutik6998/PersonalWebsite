@@ -47,13 +47,13 @@ nav {
 }
 
 a {
-  color: whitesmoke;
+  color: black;
   text-decoration: none;
-  text-decoration-color: white;
+  text-decoration-color:rgb(135, 19, 238);
 }
 
 a:hover {
-  color: grey;
+  color:white;
   text-decoration: underline;
   text-underline-offset: 1rem;
   text-decoration-color: rgb(181, 181, 181);
@@ -235,9 +235,9 @@ section {
 .details-container {
   padding: 1.5rem;
   flex: 1;
-  background: rgb(163, 77, 239);
+  background: rgb(115, 77, 239);
   border-radius: 2rem;
-  border: rgb(53, 53, 53) 0.1rem solid;
+  border: rgb(53, 53, 53) 0.2rem solid;
   border-color: rgb(163, 163, 163);
   text-align: center;
 }
@@ -300,7 +300,7 @@ article .icon {
 
 .color-container {
   border-color: rgb(163, 163, 163);
-  background: rgb(135, 19, 238);
+  background: rgb(115, 77, 239)
 }
 
 .project-img {
